@@ -1,6 +1,7 @@
 # KonARM
-![render_1](https://github.com/KamilWuu/KonARM/assets/116459527/245003ab-f186-47a9-9673-51e210973d24)
 ![351527422_6197816846971402_5331951236817197029_n](https://github.com/KamilWuu/KonARM/assets/116459527/085fdeff-f071-40fa-8b52-cf244625c8f6)
+![render_1](https://github.com/KamilWuu/KonARM/assets/116459527/245003ab-f186-47a9-9673-51e210973d24)
+
 
 KonARM is a fourth axis robotic arm for autonomuos multitasking robot "ARIADNA" done by students from Robotics science group "KONAR" from "WUST". 
 
